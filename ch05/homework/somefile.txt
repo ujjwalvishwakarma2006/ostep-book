@@ -1,0 +1,12 @@
+Written by parent
+Written by parent
+Written by parent
+Written by parent
+1
+I am parent, fd = 1
+Written by child
+Written by child
+Written by child
+Written by child
+1
+I am child, fd = 1
